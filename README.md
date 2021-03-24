@@ -9,7 +9,7 @@ Simple react template bootstrapped with the necessary folder structure for your 
 
 
 ## Folder Structure
-* src/ - Contains all of our react codebase
+* `<src/>` - Contains all of our react codebase
   * index.jsx - Base react component
   * routes.ts - App navigation
   * api/ - Api call related functions
