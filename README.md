@@ -27,10 +27,10 @@ There is no way that is 100% correct to structure your application, this is pure
   * `hooks/` - All reusable [hooks](https://reactjs.org/docs/hooks-intro.html) will be placed here
   * `layout/` - Container and presentational components that represent your overall [layout structure](https://dev.to/olenadrugalya/layout-component-and-why-we-use-it-in-react-d8b) like header, main, navbar, and footer
   * `pages/` - Pages are unique parts of your application, they group the main container component and all non-reusable presentational components
-  * `services/` - javascript function to manage API integration based on the type of data
+  * `services/` - Javascript function to manage API integration based on the type of data
   * `utils/` - Helper functions (string utils, array utils, constants, etc). The utils folder is just a place to locate some utility functions that used repeatedly in the project. Files in the utils folder should only contain some functions like date formatting, string conversion, etc.
   * `App.js` - Application Entry point
-  * `App.test.js` - unit test for
+  * `App.test.js` - Unit test for
   * `index.js` - Base react component
   * `routes.js` - App navigation (create it as need)
 
