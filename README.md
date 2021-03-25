@@ -36,9 +36,16 @@ There is no way that is 100% correct to structure your application, this is pure
 
 Just in case you are wondering where I would put my styles, I would recommend [modular styling](https://alligator.io/react/react-css/#modular-stylesheets), but if you are more interested in cutting edge solutions then you can deep dive into [stylized components](https://styled-components.com/docs/basics) and if you like it but already use another progressive technology like tailwind, there is no reason why you can't combine both of them, here is a solution for you [tailwind-styled-components - npm (npmjs.com)](https://www.npmjs.com/package/tailwind-styled-components). I hope this helps you as it does for me. Happy coding❤️
 
-#### Source
+
+### Additional Resources
+
+[Creating path aliases in create-react-app with react-app-rewired | by Suraj Pasayat | Medium](https://medium.com/@suraj.93p/creating-path-aliases-in-create-react-app-with-react-app-rewired-c2cde81b472)
+
+
 
 ---
+
+### Source
 
 [Guidelines to improve your React folder structure — Max Rozen](https://maxrozen.com/guidelines-improve-react-app-folder-structure) 2021, accessed 24th March 2021
 
