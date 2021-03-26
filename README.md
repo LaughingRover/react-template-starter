@@ -36,7 +36,7 @@ There is no way that is 100% correct to structure your application, this is pure
   * `setupTest.js` - Unit test library
   * `routes.js` - App navigation (create it as need)
 
-Just in case you are wondering where I would put my styles, I would recommend [modular styling](https://alligator.io/react/react-css/#modular-stylesheets), but if you are more interested in cutting edge solutions then you can deep dive into [stylyed components](https://styled-components.com/docs/basics) and if you like it but already use another progressive technology like tailwind, there is no reason why you can't combine both of them, here is a solution for you [tailwind-styled-components - npm (npmjs.com)](https://www.npmjs.com/package/tailwind-styled-components). I hope this helps you as it does for me. Happy coding❤️
+Just in case you are wondering where I would put my styles, I would recommend [modular styling](https://alligator.io/react/react-css/#modular-stylesheets), but if you are more interested in cutting edge solutions then you can deep dive into [styled components](https://styled-components.com/docs/basics) and if you like it but already use another progressive technology like tailwind, there is no reason why you can't combine both of them, here is a solution for you [tailwind-styled-components - npm (npmjs.com)](https://www.npmjs.com/package/tailwind-styled-components). I hope this helps you as it does for me. Happy coding❤️
 
 ### Additional Resources
 
